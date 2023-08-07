@@ -1,8 +1,12 @@
 # Y
 
+<<<<<<< HEAD
 #Este repositorio es un ejemplo del curso...
 
 Aquí pongo otra cosa
+=======
+# Rama 0.0.1 prueba
+>>>>>>> 0.0.1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
 
