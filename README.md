@@ -1,5 +1,9 @@
 # Y
 
+#Este repositorio es un ejemplo del curso...
+
+Aquí pongo otra cosa
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
 
 ## Development server
